@@ -4,28 +4,28 @@ const Skills = () => {
   const skills = [
     {
       logo: "logo-html5",
-      level: "Expect",
+      level: "Expert",
       count: 86,
     },
     {
       logo: "logo-css3",
-      level: "Expect",
+      level: "Proficient",
       count: 90,
     },
    
     {
       logo: "logo-javascript",
-      level: "Expect",
+      level: "Proficient",
       count: 40,
     },
     {
       logo: "logo-react",
-      level: "Expect",
+      level: "Expert",
       count: 80,
     }, 
     {
       logo: "logo-nodejs",
-      level: "Expect",
+      level: "Expert",
       count: 80,
     },
 
